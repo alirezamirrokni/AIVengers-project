@@ -31,4 +31,4 @@ seaborn
 
 The following confusion matrix shows the classification performance of the model:
 
-![roc.png](https://i.postimg.cc/vZTFdHSt/roc.png)](https://postimg.cc/RNkb79mW)
+[![roc.png](https://i.postimg.cc/vZTFdHSt/roc.png)](https://postimg.cc/RNkb79mW)
