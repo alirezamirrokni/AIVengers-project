@@ -29,6 +29,6 @@ seaborn
 
 ## Results
 
-The following confusion matrix shows the classification performance of the model:
+The following image shows the performance of different models (based on ROC curve):
 
 [![roc.png](https://i.postimg.cc/vZTFdHSt/roc.png)](https://postimg.cc/RNkb79mW)
