@@ -11,7 +11,7 @@ The **AIVengers Project** aims to classify the emotional valence (positive or ne
 
 ## Getting Started
 
-To get started, clone the repository and follow the instructions below to set up your environment. The provided scripts can be used to preprocess data, train models, and evaluate results.
+To get started, clone the repository and run the cells of `ML_project.ipynb`. The provided scripts can be used to preprocess data, train models, and evaluate results.
 
 ### Prerequisites
 
