@@ -11,26 +11,25 @@ The **AIVengers Project** aims to classify the emotional valence (positive or ne
 
 ## Getting Started
 
-To get started, clone the repository and run the cells of `ML_project.ipynb`. The provided scripts can be used to preprocess data, train models, and evaluate results.
-
 ### Prerequisites
 
-Ensure you have Python 3.x installed. The required Python libraries are listed in the `requirements.txt` file:
+- Python 3.x
+- Required libraries: numpy, scipy, scikit-learn, matplotlib, pandas, imblearn, seaborn
 
-```bash
-numpy
-scipy
-scikit-learn
-matplotlib
-pandas
-imblearn
-seaborn
-```
-You can install the dependencies using:
+Install the dependencies using:
 
 ```bash
 pip install -r requirements.txt
 ```
+## Usage
+
+1. **Clone the repository**:
+
+    ```bash
+    git clone https://github.com/alirezamirrokni/AIVengers-project.git
+    ```
+
+2. **Open `.ipynb` file and run its cells.**
 
 ## Results
 
