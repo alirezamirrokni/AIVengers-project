@@ -34,7 +34,7 @@ pip install -r requirements.txt
     ```bash
     cd AIVengers-project
     ``` 
-3. **Open `.ipynb` file and run its cells.**
+3. **Open `ML_project.ipynb` file and run its cells.**
 
 ## Results
 
