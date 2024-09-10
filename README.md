@@ -30,6 +30,7 @@ You can install the dependencies using:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Results
 
