@@ -6,7 +6,7 @@ The **AIVengers Project** aims to classify the emotional valence (positive or ne
 
 - **Data Preprocessing**: Scripts for loading and preprocessing EEG datasets.
 - **Feature Extraction**: Methods to compute PSD and PLV features from EEG signals.
-- **Model Training**: Implementation of various machine learning models for valence classification.
+- **Model Training**: Implementation of various machine learning models for valence classification (SVM, LGBM, RandomForest, MLP).
 - **Evaluation**: Tools for evaluating model performance, including metrics like accuracy and confusion matrices.
 
 ## Getting Started
@@ -25,3 +25,10 @@ matplotlib
 pandas
 imblearn
 seaborn
+```
+
+## Results
+
+The following confusion matrix shows the classification performance of the model:
+
+![Confusion Matrix](https://postimg.cc/RNkb79mW)
