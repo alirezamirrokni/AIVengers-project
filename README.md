@@ -28,7 +28,12 @@ pip install -r requirements.txt
     ```bash
     git clone https://github.com/alirezamirrokni/AIVengers-project.git
     ```
+    
+2. **Navigate to the project directory**:
 
+    ```bash
+    cd AIVengers-project
+    ``` 
 2. **Open `.ipynb` file and run its cells.**
 
 ## Results
