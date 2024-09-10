@@ -33,3 +33,6 @@ The following image shows the performance of different models (based on ROC curv
 
 [![roc.png](https://i.postimg.cc/vZTFdHSt/roc.png)](https://postimg.cc/RNkb79mW)
 
+## Authors        
+-[Alireza Mirrokni](https://github.com/alirezamirrokni)    
+
